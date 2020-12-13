@@ -67,7 +67,7 @@ ssmtp_authpass="passwordforgmail"
 - Use STARTTLS for SMTP Communications (NO disables it)
 
 ``` ssmtp_autoconfig=true``` 
-- This parameter enables or disables ssmtp.conf overwrite using ssmtp_* parameters (false disables it, and file ssmtp.conf will not be overwrote)
+- This parameter enables or disables ssmtp.conf overwrite using ssmtp_* parameters (false disables it, and file ssmtp.conf will not be overwritten)
 
 
 ``` logging=false``` 
